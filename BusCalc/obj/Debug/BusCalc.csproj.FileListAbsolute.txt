@@ -1,0 +1,11 @@
+C:\Users\jante\source\repos\BusCalc\bin\Debug\BusCalc.exe.config
+C:\Users\jante\source\repos\BusCalc\bin\Debug\BusCalc.exe
+C:\Users\jante\source\repos\BusCalc\bin\Debug\BusCalc.pdb
+C:\Users\jante\source\repos\BusCalc\obj\Debug\BusCalc.csproj.AssemblyReference.cache
+C:\Users\jante\source\repos\BusCalc\obj\Debug\BusCalc.Properties.Resources.resources
+C:\Users\jante\source\repos\BusCalc\obj\Debug\BusCalc.csproj.GenerateResource.cache
+C:\Users\jante\source\repos\BusCalc\obj\Debug\BusCalc.csproj.CoreCompileInputs.cache
+C:\Users\jante\source\repos\BusCalc\obj\Debug\BusCalc.exe
+C:\Users\jante\source\repos\BusCalc\obj\Debug\BusCalc.pdb
+C:\Users\jante\source\repos\BusCalc\obj\Debug\BusCalc.MainForm.resources
+C:\Users\jante\source\repos\BusCalc\obj\Debug\BusCalc.Receipt.resources
